@@ -1,1 +1,1 @@
-# my_first_rails_app-
+This is Brenda's first git project!
